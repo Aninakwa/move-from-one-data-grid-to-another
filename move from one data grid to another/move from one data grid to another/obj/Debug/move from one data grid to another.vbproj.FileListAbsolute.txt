@@ -1,0 +1,12 @@
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\bin\Debug\move from one data grid to another.exe.config
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\bin\Debug\move from one data grid to another.exe
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\bin\Debug\move from one data grid to another.pdb
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\bin\Debug\move from one data grid to another.xml
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move from one data grid to another.vbproj.AssemblyReference.cache
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move_from_one_data_grid_to_another.Form1.resources
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move_from_one_data_grid_to_another.Resources.resources
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move from one data grid to another.vbproj.GenerateResource.cache
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move from one data grid to another.vbproj.CoreCompileInputs.cache
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move from one data grid to another.exe
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move from one data grid to another.xml
+C:\programming\Visual basic\move from one data grid to another\move from one data grid to another\obj\Debug\move from one data grid to another.pdb
